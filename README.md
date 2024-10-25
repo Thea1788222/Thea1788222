@@ -1,5 +1,5 @@
 # About Me
-##Welcome!你好！
+## Welcome!你好！
 - 😽 My name is Thea and I am from China.
 - 🌱 I’m currently learning computer science.
 - 👯 I'm also a Minecraft player.
